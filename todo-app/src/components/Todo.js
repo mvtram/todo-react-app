@@ -46,6 +46,7 @@ export class Todo extends Component{
         <button type="button" onClick={this.props.onDelete} className="btn-floating btn-small red" style={{
             margin: '1rem 0 1rem 1rem',
             padding: "1px",
+            height: "40px",
             width: "40px",
         }}>X</button>
     </div>
