@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../components/TodoForms.css';
 import shortid from 'shortid';
-import MaterialIcon, {colorPalette} from 'material-icons-react';
+import MaterialIcon from 'material-icons-react';
 import 'materialize-css/dist/css/materialize.min.css';
 
 class TodoForm extends Component {

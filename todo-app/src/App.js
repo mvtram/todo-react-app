@@ -1,6 +1,4 @@
 import React from 'react';
-//import MaterialIcon, {colorPalette} from 'material-icons-react';
-//import 'materialize-css/dist/css/materialize.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import TodoForm from './components/TodoForms';
 import Todo from './components/Todo';

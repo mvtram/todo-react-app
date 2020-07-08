@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import MaterialIcon, {colorPalette} from 'material-icons-react';
 import 'materialize-css/dist/css/materialize.min.css';
 
 
