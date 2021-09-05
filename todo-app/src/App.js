@@ -99,7 +99,7 @@ class App extends React.Component {
   render() {
     let todos = [];
 
-    // console.log(updatedtext());
+    console.log("hello to todos app");
     if (this.state.todoToShow === "all") {
       todos = this.state.todos;
     } else if (this.state.todoToShow === "active") {
